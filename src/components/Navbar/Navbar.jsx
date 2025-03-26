@@ -10,7 +10,7 @@ const Navbar = () => {
         <div className="container flex justify-between items-center px-4">
           {/* Logo Section */}
           <a href="#" className="font-bold text-2xl sm:text-3xl flex gap-2 items-center">
-            <img src={LogoIcon} alt="Logo" className="w-10" />
+            <img src={LogoIcon} alt="Logo" className="w-14" />
             Shopsy
           </a>
 
